@@ -1,4 +1,4 @@
 # Detection_openCV
 
-Simple detection, tracking of a colour.
-Face detection using haar-cascade
+1. Simple detection, tracking of a colour.
+2. Face detection using haar-cascade
